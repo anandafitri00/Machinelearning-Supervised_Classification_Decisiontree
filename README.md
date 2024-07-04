@@ -18,7 +18,7 @@ Anda bisa menjalankan proyek dengan mengikuti langkah-langkah berikut:
     python ananda_fitri_karimah_1301170774_supervised.py
     ```
 # Hasil Eksperimen dan Fitur
-Berikut adalah beberapa hasil eksperimen yang telah dilakukan menggunakan algoritma K-Means yang dikembangkan:
+Berikut adalah beberapa hasil eksperimen yang telah dilakukan menggunakan algoritma Decision Tree yang dikembangkan:
 - Implementasi Decision Tree dari awal
 - Fitur pemilihan atribut, pembentukan node, dan pembagian data
 - Pengaturan parameter Decision Tree
